@@ -258,7 +258,7 @@ public class ClientController {
         clientForm.getTxtLastName().setEnabled(true);
         clientForm.getPickerBirthDate().setEnabled(true);
         clientForm.getCbMaritalStatus().setEnabled(true);
-        clientForm.getCbClientType().setEnabled(true);
+        clientForm.getCbClientType().setEnabled(false);
         /////////////////////////////////////
         clientForm.getTxtAverageGrade().setEnabled(true);
         clientForm.getTxtLengthOfStudy().setEnabled(true);

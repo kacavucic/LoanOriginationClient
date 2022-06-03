@@ -42,6 +42,7 @@ public class ClientForm extends javax.swing.JPanel {
         txtFaculty = new JTextField();
         txtCourse = new JTextField();
         txtAverageGrade = new JFormattedTextField();
+        txtLengthOfStudy = new JTextField();
         pnlEmployed = new JPanel();
         lblEmployerName = new JLabel();
         lblTaxIdentificationNumberOfEmployer = new JLabel();
